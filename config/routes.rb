@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  get 'registrations/create'
-  get 'sessions/create'
-  resources :sessions, only: %w[create]
-  resources :registrations, only: %w[create]
+  post 'registrations/create'
+  post 'sessions/create'
+  delete :logout, to: 'sessions#destroy'
+  get :logged_in, to: 'sessions#logged_in'
   root to: 'static#home'
 end
