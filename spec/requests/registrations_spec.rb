@@ -1,5 +1,4 @@
 require 'rails_helper'
-
 RSpec.describe "Registrations", type: :request do
  user = FactoryBot.create(:user)
   describe "POST /create" do
