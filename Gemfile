@@ -35,7 +35,6 @@ gem "redis", "~> 4.0"
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
-
 # Active interaction for Rails [https://github.com/AaronLasseigne/active_interaction]
 gem 'active_interaction', '~> 5.1', '>= 5.1.1'
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
