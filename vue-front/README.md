@@ -1,6 +1,6 @@
 # vue-front
 
-This template should help get you started developing with Vue 3 in Vite.
+Front end for Ruby on Rails login and auth app. Vue/Vite
 
 ## Recommended IDE Setup
 
@@ -13,17 +13,20 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+npm install or yarn
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+npm run dev or yarn dev
 ```
 
 ### Compile and Minify for Production
 
 ```sh
-npm run build
+npm run build or yarn build
+
+Runs on http://localhost:5173/
+
 ```

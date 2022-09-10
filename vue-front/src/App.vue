@@ -5,7 +5,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img alt="Rail logo" class="logo" src="@/assets/logorails.png" width="80" height="80" />
+    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="80" height="80" />
 
     <div class="wrapper">
       <HelloWorld msg="Its gonna be awesome!" />
