@@ -9,14 +9,14 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="80" height="80" />
 
     <div class="wrapper">
-      <HelloWorld msg="Its gonna be awesome!" />
-
+      <HelloWorld msg="Its Gonna Be Awesome!" />
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/dash">Admin</RouterLink>
         <RouterLink to="/registration">Register</RouterLink>
-        <RouterLink to="/login">Login</RouterLink>
+        <RouterLink to="/login">Sign In</RouterLink>
       </nav>
+
     </div>
   </header>
 
