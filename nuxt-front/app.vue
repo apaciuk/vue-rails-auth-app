@@ -1,5 +1,6 @@
 <template>
   <div style="text-align: center; margin: 50px;">
+  <h1>Its Gonna Be Awesome!</h1>
     <img alt=" Rail logo" class="logo" src="@/assets/logorails.png" width="80" height="80" />
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="80" height="80" />
 
