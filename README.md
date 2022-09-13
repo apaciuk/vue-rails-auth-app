@@ -1,6 +1,6 @@
 # vue-rails-auth
 
-Rails 7 & Vue JS (Vite) app with Bcrypt sessions, registrations, login and auth functionailty, RSpec & Factory Bot tests
+Rails 7 & Vue JS (Vite) app with Bcrypt sessions, registrations, login and auth functionailty, RSpec & Factory Bot tests, alt Vue and Nuxt version front ends
 
 * Ruby version
 3.1.2
@@ -8,8 +8,11 @@ Rails 7 & Vue JS (Vite) app with Bcrypt sessions, registrations, login and auth 
 * Vue version
 3.2.38
 
+* Nuxt version
+3.0.0 RC 9
+
 * System dependencies
-Ruby, Vue, Vite, BCrypt, RSpec, PostgreSQL
+Ruby, Vue, Nuxt, Vite, BCrypt, RSpec, PostgreSQL
 
 * Database creation
 Postgres 
